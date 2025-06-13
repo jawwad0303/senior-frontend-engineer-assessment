@@ -31,6 +31,20 @@ Senior Frontend Developer Assessment web application scaffolded with **Vite**, s
 
 ```bash
 pnpm install
+```
 
+### Development Server
 
-# senior-frontend-engineer-assessment
+Start the development server:
+
+```bash
+pnpm dev
+```
+
+### Build for Production
+
+Build the application for production:
+
+```bash
+pnpm build
+```
